@@ -1,1 +1,2 @@
 # Brain-Tumor-Detection-using-RESNET-50
+In this project, a pretrained CNN model RESNET-50 is implemented using the technique of transfer learning on the Figshare dataset. Contrast stretching and Histogram Equalization techniques separately were implemented on the input images and their performances have been compared in terms of precision and recall with similar techniques Kaur et al. [9]. RESNET 50 with Contrast Stretching attained the highest accuracy of 99.15% for classification.
